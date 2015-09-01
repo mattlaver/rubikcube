@@ -1,0 +1,1 @@
+# Stage 6: Position The Yellow Corners Correctly
